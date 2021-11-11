@@ -1,6 +1,6 @@
-import java.awt.BorderLayout;
-import java.awt.EventQueue;
+package project;
 
+import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -56,7 +56,7 @@ public class Temperature extends JFrame {
 			//	MainPage home = new MainPage();
 			//	home.setVisible(true);
 				dispose();
-				
+
 			}
 		});
 		button.setForeground(Color.WHITE);
@@ -64,7 +64,7 @@ public class Temperature extends JFrame {
 		button.setBackground(Color.BLUE);
 		button.setBounds(12, 499, 176, 41);
 		contentPane.add(button);
-		
+
         JLabel lblTemperatureConversion = new JLabel("Temperature Conversion");
         lblTemperatureConversion.setHorizontalAlignment(SwingConstants.CENTER);
         lblTemperatureConversion.setForeground(Color.WHITE);
