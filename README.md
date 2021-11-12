@@ -5,7 +5,7 @@ It is a GUI based CONVERTER created using java language
 It will provide ease to everyone in conversion of currency and temperature in a very less time 
 ## language and tools 
 * Java 
-* Netbeans 
+* intellij 
 ## Developers
 * kubra Ghafoor
 * Kinza Aslam 
