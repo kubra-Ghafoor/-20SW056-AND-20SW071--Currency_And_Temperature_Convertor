@@ -1,7 +1,8 @@
 
 # CURRENCY AND TEMPERATURE CONVERTER
+It is a GUI based CONVERTER created using java language
 
-It is a GUI based CONVERTER which converts currency and temperature  created using java language 
+It will provide ease to everyone in conversion of currency and temperature in a very less time 
 ## language and tools 
 * Java 
 * Netbeans 
