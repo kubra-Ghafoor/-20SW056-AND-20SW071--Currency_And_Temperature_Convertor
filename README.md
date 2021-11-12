@@ -10,10 +10,15 @@ It is a GUI based CONVERTER which converts currency and temperature  created usi
 * Kinza Aslam 
 
 
+
+
 ![1618247853358 jpg](https://user-images.githubusercontent.com/92909787/141508060-e6069548-262f-447d-94bd-eae50372b3ad.jpg)
 
-![2](https://user-images.githubusercontent.com/92909787/141507067-d2c789ae-abe7-4dbb-be33-2c445c7bd2cc.png)
 
 
-![16182478533587 jpg](https://user-images.githubusercontent.com/92909787/141507152-2b54f8cd-8564-444f-b486-f9c682005d4f.png)
+![2](https://user-images.githubusercontent.com/92909787/141508324-cf6eb1e9-4d70-461e-802d-973a4605c760.jpg)
+
+
+
+![16182478533587 jpg](https://user-images.githubusercontent.com/92909787/141508359-c63da212-9521-49a0-afca-c933f6733520.jpg)
 
