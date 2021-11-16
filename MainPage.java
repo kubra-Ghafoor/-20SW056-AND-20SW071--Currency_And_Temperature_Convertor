@@ -1,6 +1,5 @@
 package com.company;
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JLabel;
@@ -48,7 +47,7 @@ public class MainPage extends JFrame {
         btnT.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 Temperature temp = new Temperature();
-               temp.setVisible(true);
+                temp.setVisible(true);
                 dispose();
             }
         });
@@ -87,8 +86,4 @@ public class MainPage extends JFrame {
 
     }
 
-    private class Temperature {
-        public void setVisible(boolean b) {
-        }
     }
-}
